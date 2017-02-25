@@ -8,6 +8,7 @@ Composed by the following modules:
 
 ## Installation
 jdk 1.8 required
+mongodb required
 
 ## Usage
 
