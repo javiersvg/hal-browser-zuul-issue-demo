@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>spring-boot-and-oauth2</artifactId>
+    <artifactId>hal-browser-zuul-issue-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>spring-boot-and-oauth2</name>
+    <name>hal-browser-zuul-issue-demo</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>

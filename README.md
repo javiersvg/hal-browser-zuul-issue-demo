@@ -11,6 +11,6 @@ jdk 1.8 required
 
 ## Usage
 
-start ui server: `./mvnw -pl ui clean spring-boot:run`
-start client server: `./mvnw -pl client clean spring-boot:run`
-access: http://localhost:8080/client
+* start ui server: `./mvnw -pl ui clean spring-boot:run`
+* start client server: `./mvnw -pl client clean spring-boot:run`
+* access: http://localhost:8080/client
