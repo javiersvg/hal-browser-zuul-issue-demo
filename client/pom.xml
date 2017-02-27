@@ -13,7 +13,7 @@
 
 	<parent>
 		<groupId>com.example</groupId>
-		<artifactId>spring-boot-and-oauth2</artifactId>
+		<artifactId>hal-browser-zuul-issue-demo</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
