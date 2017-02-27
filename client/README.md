@@ -1,4 +1,4 @@
 # Client application
 
 ##Description
-Application meant to connect to the authorization server to in time get redirected to the authentication endpoint
+Resource applicatio that has a HAL browser to access a customer repository.
